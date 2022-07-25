@@ -5,7 +5,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        <h1>Hello homepage</h1>
+        <h1>Hello homepageee</h1>
         <Contact />
       </div>
     )
