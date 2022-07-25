@@ -1,6 +1,6 @@
-import React, { Component } from "react";
-import Contact from "./components/Contact";
-import Produit from "./components/Produit";
+import React, { Component } from "react"
+import Contact from "./components/Contact"
+import Produit from "./components/Produit"
 
 export default class App extends Component {
   render() {
@@ -10,6 +10,6 @@ export default class App extends Component {
         <Contact />
         <Produit />
       </div>
-    );
+    )
   }
 }
